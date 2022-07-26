@@ -1,16 +1,16 @@
 id,chapter,zoom,image,source-credit,source-link,description,lon,lat
-1,Pueblo,15,Asquipata_pueblo,Source: Comisedh,"https://github.com/bzdjahna/StoryMap/blob/main/jpg/1Asquipata_pueblo.JPG?raw=true,https://github.com/bzdjahna/StoryMap/blob/main/jpg/2Vizcachayoc_almacenSL_b.jpg",Asquipata,-73.9078031 ,-14.05292365
-2,Ruta almacenes,16,Vizcachayoc_ab,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/2Vizcachayoc_almacenSL_a.JPG ,Asquipata,-73.9306295 ,-14.04936016
-3,Ruta almacenes,17,Killirka_ab,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/4Killirka_a.JPG ,Asquipata,-73.9265275 ,-14.06705071
-4,Ruta almacenes,15,Sayhuapata,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/5Sayhuapata.JPG ,Asquipata,-73.9229745 ,-14.0655723
-5,Ruta almacenes,16,Sillacha_ab,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/6Sillacha_a.JPG ,Asquipata-Chihuire,-73.9638090 ,-14.10017427
-6,Pueblo,17,MorcollaChico_pueblo,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/7MorcollaChico_pueblo.JPG ,Asquipata-MorcollaChico,-73.9275108 ,-14.10812389
-7,Ataque Militar Huida SL,15,Chaucerahuaycco,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/8Chaucerahuaycco.JPG ,Asquipata-MorcollaChico,-73.9263490 ,-14.11056616
-8,Buscando Jesus,16,Chihuire_Jesus,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/9Chihuire_Jesus.jpg ,Asquipata-Chihuire,-73.9626267 ,-14.09950522
-9,Pueblo,17,Luca_pueblo,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/11Luca_pueblo.JPG ,Lucanamarca,-74.3728922 ,-13.84403007
-10,Ruta almacenes,15,Piskupunku_abc,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/12Piskupunku_a.JPG ,Lucanamarca,-74.3887237 ,-13.80819219
-11,Ruta almacenes,16,Anccasccocha_ab,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/13Anccasccocha_a.JPG ,Lucanamarca,-74.4210666 ,-13.83031761
-12,Pueblo,17,Manchiri_pueblo,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/14Manchiri_pueblo.jpg ,Carapo-Manchiri,-74.3159453 ,-13.78230198
-13,Cementerio,15,Machiri_cementerio,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/15Machiri_cementerio.JPG ,Carapo-Manchiri,-74.3139989 ,-13.78152924
-14,Ataque policial,16,Mamasuyana_ab,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/19Mamasuyana_a.JPG ,Sacsamarca-Pallca,-74.2491183 ,-13.87896326
-15,Ruta almacenes,17,Chalala_abc,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/20Chalala_a.JPG ,Carapo,-74.2558146 ,-13.86573653
+1,Pueblo,15,Asquipata_pueblo,Source: Comisedh,https://raw.githubusercontent.com/bzdjahna/StoryMap/main/jpg/2Vizcachayoc_almacenSL_b.jpg,Asquipata,-73.9078031,-14.05292365
+2,Ruta almacenes,16,Vizcachayoc_ab,Source: Comisedh,https://raw.githubusercontent.com/bzdjahna/StoryMap/main/jpg/2Vizcachayoc_almacenSL_a.JPG,Asquipata,-73.9306295,-14.04936016
+3,Ruta almacenes,17,Killirka_ab,Source: Comisedh,https://raw.githubusercontent.com/bzdjahna/StoryMap/main/jpg/4Killirka_a.JPG,Asquipata,-73.9265275,-14.06705071
+4,Ruta almacenes,15,Sayhuapata,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/5Sayhuapata.JPG ,Asquipata,-73.9229745,-14.0655723
+5,Ruta almacenes,16,Sillacha_ab,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/6Sillacha_a.JPG ,Asquipata-Chihuire,-73.963809,-14.10017427
+6,Pueblo,17,MorcollaChico_pueblo,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/7MorcollaChico_pueblo.JPG ,Asquipata-MorcollaChico,-73.9275108,-14.10812389
+7,Ataque Militar Huida SL,15,Chaucerahuaycco,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/8Chaucerahuaycco.JPG ,Asquipata-MorcollaChico,-73.926349,-14.11056616
+8,Buscando Jesus,16,Chihuire_Jesus,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/9Chihuire_Jesus.jpg ,Asquipata-Chihuire,-73.9626267,-14.09950522
+9,Pueblo,17,Luca_pueblo,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/11Luca_pueblo.JPG ,Lucanamarca,-74.3728922,-13.84403007
+10,Ruta almacenes,15,Piskupunku_abc,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/12Piskupunku_a.JPG ,Lucanamarca,-74.3887237,-13.80819219
+11,Ruta almacenes,16,Anccasccocha_ab,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/13Anccasccocha_a.JPG ,Lucanamarca,-74.4210666,-13.83031761
+12,Pueblo,17,Manchiri_pueblo,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/14Manchiri_pueblo.jpg ,Carapo-Manchiri,-74.3159453,-13.78230198
+13,Cementerio,15,Machiri_cementerio,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/15Machiri_cementerio.JPG ,Carapo-Manchiri,-74.3139989,-13.78152924
+14,Ataque policial,16,Mamasuyana_ab,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/19Mamasuyana_a.JPG ,Sacsamarca-Pallca,-74.2491183,-13.87896326
+15,Ruta almacenes,17,Chalala_abc,Source: Comisedh,https://github.com/bzdjahna/StoryMap/blob/main/jpg/20Chalala_a.JPG ,Carapo,-74.2558146,-13.86573653
