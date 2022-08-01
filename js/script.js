@@ -25,7 +25,7 @@ function initMap() {
   .setPrefix('View <a href="http://github.com/jackdougherty/leaflet-storymap" target="_blank">code on GitHub</a>, created with <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>');
 
   // This loads the GeoJSON map data file from a local folder
-  $.getJSON('../resources/StoryMap.geojson', function(data) {
+  $.getJSON('StoryMap.geojson', function(data) {
     var geojson = L.geoJson(data, {
       onEachFeature: function (feature, layer) {
         (function(layer, properties) {
