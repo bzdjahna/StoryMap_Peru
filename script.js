@@ -5,6 +5,8 @@ var scrollPosition = 0;
 $('div#contents').scroll(function() {
   scrollPosition = $(this).scrollTop();
 });
+
+
 // References: 
 
 const references = ` 
@@ -14,7 +16,8 @@ const references = `
    <ul><li><p class="reference">Pérez de la Dehesa, R. (1969). La editorial Sempere en Hispanoamérica y España. Revista Iberoamericana, XXXV(69), 551-555.</p></li></ul>
    <ul><li><p class="reference" style="margin-bottom: 100px;">Strachota, S. (2020). Generalizaing in teh context of an early algebra intervention. Infancia y aprendizaje, 43(2), 347-394.</p></li></ul>
   </div>
-  ` 
+`
+
 function initMap() {
 
   // This creates the Leaflet map with a generic start point, because code at bottom automatically fits bounds to all markers
@@ -43,7 +46,7 @@ function initMap() {
           var numericMarker = L.ExtraMarkers.icon({
             icon: 'fa-number',
             number: feature.properties['id'],
-            markerColor: 'blue'
+            markerColor: 'black'
           });
           layer.setIcon(numericMarker);
 
@@ -77,10 +80,9 @@ function initMap() {
           var imgHolder = $('<div></div', {
             class: 'img-holder'
           });
-
           imgHolder.append(image);
 
-// Conditional for videos in story map
+          // Conditional for videos in story map
           if(feature.properties['video'] < 1){
             container.append(chapter).append(imgHolder).append(source).append(description);
             $('#contents').append(container);
@@ -94,7 +96,6 @@ function initMap() {
             container.append(chapter).append(imgHolder).append(source).append(description).append(video);
             $('#contents').append(container);
           }
-
           
           var i;
           var areaTop = -100;
