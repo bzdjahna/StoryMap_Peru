@@ -11,18 +11,23 @@ $('div#contents').scroll(function() {
 const introduction = `
 <h3 style="font-weight:lighter;font-family: 'Roboto Slab', serif;font-size: 120%;"><i class='fa fa-file-text-o'></i> Introduction</h3>
 <p class="intro">
-Ayacucho, city, south-central Peru.
-It lies in a fertile valley on the eastern slopes of the Andean Cordillera Occidental
-at an elevation of 9,007 feet (2,746 metres) above sea level and has a pleasant
-and invigorating climate.
-Ayacucho was founded in 1539 by the conquistador Francisco Pizarro and called Huamanga until 1825.
-Its present name comes from the surrounding plain of Ayacucho (a Quechua word meaning “corner of the dead”),
- where revolutionaries defeated royalist forces in 1824 and secured Peru’s independence from Spain.
- Many colonial buildings survive in the city.
- The seat of an archbishopric, it has a 17th-century cathedral and
- many churches and is known for its Holy Week celebrations.
- The National University of San Cristóbal de Huamanga (founded 1677, closed 1886, reopened 1959)
- is located there.
+In the early 80s and the late 90s, Peruvians experienced an internal armed
+conflict between the military and the group known as the Shining Path 
+(Communist Party of Peru- Shining Path). The latter started a long war 
+to overthrow the government by taking control of the poorest and most forgotten 
+areas of the Ayacucho region. In response, the government created the 
+Military Political Command in December 1982 and sent armed forces to fight 
+this uprising. In this scenario, local Andean communities got caught in the 
+crossfire. In consequence, this took a severe toll on the people from Ayacucho 
+and throughout other Peruvian regions, with nearly 70,000 casualties and 21,000 
+of them still missing (CVR 2003).
+This StoryMap draws from the Human Rights Commission (Comisedh) research 
+and  uses digital tools to better understand the causes and repercussions 
+of this conflict. The current proposal will encourage the use of difficult 
+and digital heritage by using testimonies and data gathered in the field 
+close to victims’ families, impacting not only new generations but also old
+ generations within a hard and long process of reconciliation.
+ 
  </p>
 `
 
