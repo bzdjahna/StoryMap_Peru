@@ -9,7 +9,7 @@ $('div#contents').scroll(function() {
 
 // Introduction: 
 const introduction = `
-<h2 style="font-weight:lighter;font-family: 'Roboto Slab', serif;font-size: 120%;"><i class='fa fa-file-text-o'></i> Introduction</h3>
+<h2 style="font-weight:lighter;font-family: 'Roboto Slab', serif;font-size: 120%;"><i class='fa fa-file-text-o'></i> Introduction</h2>
 <p class="intro">
 In the early 80s and the late 90s, Peruvians experienced an internal armed
 conflict between the military and the group known as the Shining Path 
