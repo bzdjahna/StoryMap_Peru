@@ -36,11 +36,11 @@ close to victims’ families, impacting not only new generations but also old
 const references = ` 
   <div class='reference'>
    <h5><u><i class='fa fa-book'></i> References:</u></h5>
-   <ul><li><p class="reference" style="margin-bottom: 100px;"> Commision on Human Rights (2022). Plan de Búsqueda de Personas Desaparecidas, Asquipata. Ayacucho-Peru.</p></li></ul>
-   <ul><li><p class="reference" style="margin-bottom: 100px;"> Commision on Human Rights (2022). Informe de campo: Investigación Humanitaria en el Distrito de Lucanamarca, Provincia de Huancasancos, Región Ayacucho.</p></li></ul>
-   <ul><li><p class="reference" style="margin-bottom: 100px;"> Commision on Human Rights (2022). Informe de campo: Investigación Humanitaria en el Distrito de Carapo, Provincia de Huancasancos, Región Ayacucho.</p></li></ul>
-   <ul><li><p class="reference" style="margin-bottom: 100px;"> Commision on Human Rights (2022). Informe de campo: Investigación Humanitaria en el Distrito de Sacsamarca, Provincia de Huancasancos, Región Ayacucho.</p></li></ul>
-   <ul><li><p class="reference" style="margin-bottom: 100px;"> Commision on Human Rights (2022). Informe de campo: Investigación Humanitaria en el Distrito de Sancos, Provincia de Huancasancos, Región Ayacucho.</p></li></ul>
+   <ul><li><p class="reference"> Commision on Human Rights (2022). Plan de Búsqueda de Personas Desaparecidas, Asquipata. Ayacucho-Peru.</p></li></ul>
+   <ul><li><p class="reference"> Commision on Human Rights (2022). Informe de campo: Investigación Humanitaria en el Distrito de Lucanamarca, Provincia de Huancasancos, Región Ayacucho.</p></li></ul>
+   <ul><li><p class="reference"> Commision on Human Rights (2022). Informe de campo: Investigación Humanitaria en el Distrito de Carapo, Provincia de Huancasancos, Región Ayacucho.</p></li></ul>
+   <ul><li><p class="reference"> Commision on Human Rights (2022). Informe de campo: Investigación Humanitaria en el Distrito de Sacsamarca, Provincia de Huancasancos, Región Ayacucho.</p></li></ul>
+   <ul><li><p class="reference"> Commision on Human Rights (2022). Informe de campo: Investigación Humanitaria en el Distrito de Sancos, Provincia de Huancasancos, Región Ayacucho.</p></li></ul>
    <ul><li><p class="reference" style="margin-bottom: 100px;"> Commision on Human Rights (2022). Informe de campo: Investigación Humanitaria en el Distrito de Vilcanchos, Provincia de Víctor Fajardo, Región Ayacucho.</p></li></ul>
      
   </div>
