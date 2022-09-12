@@ -36,9 +36,14 @@ close to victims’ families, impacting not only new generations but also old
 const references = ` 
   <div class='reference'>
    <h5><u><i class='fa fa-book'></i> References:</u></h5>
-   <ul><li><p class="reference">Matesanz Nogales, A. (2009). Datos para la adaptación castellana de la Escala de Temores (FSS), Análisis y modificación de conducta, 35(152), 67-94.</p></li></ul>
-   <ul><li><p class="reference">Pérez de la Dehesa, R. (1969). La editorial Sempere en Hispanoamérica y España. Revista Iberoamericana, XXXV(69), 551-555.</p></li></ul>
-   <ul><li><p class="reference" style="margin-bottom: 100px;">Strachota, S. (2020). Generalizaing in teh context of an early algebra intervention. Infancia y aprendizaje, 43(2), 347-394.</p></li></ul>
+   <ul><li><p class="reference" style="margin-bottom: 100px;">Commision on Human Rights (2022). Plan de Búsqueda de Personas Desaparecidas, Asquipata. Ayacucho-Peru</p></li></ul>
+   <ul><li><p class="reference" style="margin-bottom: 100px;">Commision on Human Rights (2022). Informe de campo: Investigación Humanitaria en el Distrito de Lucanamarca, Provincia de Huancasancos, Región Ayacucho.</p></li></ul>
+   <ul><li><p class="reference" style="margin-bottom: 100px;">Commision on Human Rights (2022). Informe de campo: Investigación Humanitaria en el Distrito de Carapo, Provincia de Huancasancos, Región Ayacucho.</p></li></ul>
+   <ul><li><p class="reference" style="margin-bottom: 100px;">Commision on Human Rights (2022). Informe de campo: Investigación Humanitaria en el Distrito de Sacsamarca, Provincia de Huancasancos, Región Ayacucho.</p></li></ul>
+   <ul><li><p class="reference" style="margin-bottom: 100px;">Commision on Human Rights (2022). Informe de campo: Investigación Humanitaria en el Distrito de Sancos, Provincia de Huancasancos, Región Ayacucho.</p></li></ul>
+   <ul><li><p class="reference" style="margin-bottom: 100px;">Commision on Human Rights (2022). Informe de campo: Investigación Humanitaria en el Distrito de Vilcanchos, Provincia de Víctor Fajardo, Región Ayacucho.</p></li></ul>
+    
+   
   </div>
 `
 
